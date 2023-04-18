@@ -5,6 +5,7 @@ public class PruebaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Probando Git");
 		String asignatura = "Entornos";
+		System.out.println(asignatura);
 	}
 
 }
