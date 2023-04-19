@@ -6,7 +6,6 @@ public class PruebaGit {
 		System.out.println("Probando Git");
 		String asignatura = "Entornos";
 		System.out.println("Funciona");
-		System.out.println("Funciona");
 
 	}
 
